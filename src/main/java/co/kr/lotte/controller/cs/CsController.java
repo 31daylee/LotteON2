@@ -11,6 +11,7 @@ import co.kr.lotte.entity.cs.BoardTypeEntity;
 import co.kr.lotte.service.CsCateService;
 import co.kr.lotte.service.CsService;
 import jakarta.servlet.http.HttpServletRequest;
+import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
@@ -28,13 +29,11 @@ import java.util.List;
 
 @Log4j2
 @Controller
+@RequiredArgsConstructor
 public class CsController {
-
-    @Autowired
-    private CsService csService;
-
-    @Autowired
-    private CsCateService csCateService;
+    //TODO: 생성자 주입, 필드 주입 차이점 공부
+    private final CsService csService;
+    private final CsCateService csCateService;
 
     @GetMapping(value = {"/cs/index", "/cs/"})
     public String index(@RequestParam(name = "page", defaultValue = "0") int page,

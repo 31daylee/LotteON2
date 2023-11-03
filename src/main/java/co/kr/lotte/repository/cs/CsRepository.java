@@ -23,7 +23,6 @@ public interface CsRepository extends JpaRepository<BoardEntity, Integer> {
     public List<BoardEntity> findTop10ByType(int type);
 
     //public List<BoardEntity> findByGroup(String group);
-
     public List<BoardEntity> findByGroupOrderByRdateDescBnoDesc(String group, Pageable pageable);
 
 
