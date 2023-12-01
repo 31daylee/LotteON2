@@ -1,4 +1,80 @@
-# LotteON2 프로젝트 업데이트 내역
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF0000&text=LotteON&height=150&fontSize=60&desc=%20프로젝트&descAlignY=75&descAlign=60)
+
+## 🛒프로젝트 소개
+롯데e-커머스 LOTTE ON 쇼핑몰 개발
+
+
+## ⏱프로젝트 기간
+2023.09.26 ~ 2023.10.30 (21일 160시간)
+
+
+## 👫멤버 소개
+[팀장] sloth0705 : 상품보기, 장바구니, 주문하기, 상품관련 마이페이지
+
+[팀원] 이현정(31daylee) : 고객센터, 공지사항, CS/ 메인 마이페이지, 회사소개, 상품리뷰
+
+[팀원] oink24 : 회원가입, 로그인, 약관안내, 회원관련 마이페이지
+
+[팀원] KBJ97 : 상품등록, 상품목록, 관리자 CS관리
+
+## 🌟프로젝트 페이지 소개
+
+## 🌝프로젝트 주요 기능 소개 
+#### 로그인 및 회원가입
+- 자동로그인
+- Email 인증
+- 약관 조회
+#### 상품
+- 상품별 조회 목록
+- 상품 주문
+- 장바구니
+- 주문 페이징처리
+- 리뷰 목록 및 페이징
+#### 고객센터
+- 공지사항 목록 및 페이징
+- 자주묻는질문 목록 및 아코디언
+- 문의하기 목록 및 페이징
+- 문의하기 파일 업로드 및 다운로드
+- 문의하기 수정 및 삭제 
+#### 관리자
+- 상품현황 페이징 및 삭제
+- 상품 등록
+- 고객센터 문의글 답변 기능
+#### 마이페이지
+- 메인 목록 페이지
+- 전체 주문 내역 
+- 포인트 내역
+- 나의 리뷰 기능
+- 문의하기 기능
+#### 회사소개
+- 회사메인 소개 기능
+- 홍보채널 기능
+
+
+## 🖥개발 환경
+- OS : Window10
+- Framework : Spring Boot 3.2.0
+- Language : Java 17, HTML5, CSS3, Javascript, jQuery 3.1
+- DBMS : MySQL 8.0
+- Library :
+ 1. activation-1.x.x.jar
+ 2. cos-05Nov2002.jar
+ 3. gson-2.9.1.jar
+ 4. javax.mail-1.6.2.jar
+ 5. javax.mail-api-1.6.2.jar
+ 6. jstl-1.2.jar
+ 7. logback-classic-1.4.4.jar
+ 8. logback-core-1.4.4.jar
+ 9. mysql-connector-java-8.0.29.jar
+ 10. slf4j-api-2.0.3.jar
+
+## 🏗정보구조(IA : Information Architecture)
+![Untitled](https://github.com/31daylee/LotteON2/assets/136422529/bd116eaa-64f3-4224-804b-c264d83e5ba8)
+![Untitled (1)](https://github.com/31daylee/LotteON2/assets/136422529/7a73984a-8659-4047-bd63-ce6e85296d1e)
+
+----
+### SNAPSHOT 기록 
+
 
 0.0.1-SNAPSHOT
  - 프로젝트 구조 설계
