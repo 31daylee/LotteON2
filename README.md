@@ -9,16 +9,17 @@
 
 
 ## 👫멤버 소개
-[팀장] sloth0705 : 상품보기, 장바구니, 주문하기, 상품관련 마이페이지
+[팀장] sloth0705 : 상품보기, 장바구니, 주문하기, 상품관련 마이페이지, 개발 보고서 작성
 
-[팀원] 이현정(31daylee) : 고객센터, 공지사항, CS/ 메인 마이페이지, 회사소개, 상품리뷰
+[팀원] 이현정(31daylee) : 고객센터, 공지사항, CS/ 메인 마이페이지, 회사소개, 상품리뷰, PPT 제작 및 발표 
 
-[팀원] oink24 : 회원가입, 로그인, 약관안내, 회원관련 마이페이지
+[팀원] oink24 : 회원가입, 로그인, 약관안내, 회원관련 마이페이지, 개발 보고서 작성
 
 [팀원] KBJ97 : 상품등록, 상품목록, 관리자 CS관리
 
 ## 🌟프로젝트 페이지 소개
-![Uploading 롯데온 랜딩페이지.png…]()
+![롯데온 랜딩페이지](https://github.com/31daylee/LotteON2/assets/136422529/97905ecc-b7a6-4fd7-9d5f-c8710a7007a9)
+
 
 ## 🎱프로젝트 결과_ 국비교육_ 팀프로젝트 1위 
 ![프로젝트2](https://github.com/31daylee/LotteON2/assets/136422529/6bd803ac-2a62-4375-aa5c-2e9dcf159431)
@@ -49,9 +50,10 @@
 #### 마이페이지
 - 메인 목록 페이지
 - 전체 주문 내역 
-- 포인트 내역
+- 포인트 적립/사용/목
 - 나의 리뷰 기능
 - 문의하기 기능
+- 아이디/비밀번호 찾기
 #### 회사소개
 - 회사메인 소개 기능
 - 홍보채널 기능
@@ -77,6 +79,9 @@
 ## 🏗정보구조(IA : Information Architecture)
 ![Untitled](https://github.com/31daylee/LotteON2/assets/136422529/bd116eaa-64f3-4224-804b-c264d83e5ba8)
 ![Untitled (1)](https://github.com/31daylee/LotteON2/assets/136422529/7a73984a-8659-4047-bd63-ce6e85296d1e)
+
+## 발표 PPT(메인)
+![LotteON_PPT](https://github.com/31daylee/LotteON2/assets/136422529/fef2d3a7-3115-4018-9f4b-72572955cab3)
 
 ----
 ### SNAPSHOT 기록 
