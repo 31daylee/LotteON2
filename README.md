@@ -80,7 +80,7 @@
 ![Untitled](https://github.com/31daylee/LotteON2/assets/136422529/bd116eaa-64f3-4224-804b-c264d83e5ba8)
 ![Untitled (1)](https://github.com/31daylee/LotteON2/assets/136422529/7a73984a-8659-4047-bd63-ce6e85296d1e)
 
-## 발표 PPT(메인)
+## 🌟발표 PPT(메인)
 ![LotteON_PPT](https://github.com/31daylee/LotteON2/assets/136422529/fef2d3a7-3115-4018-9f4b-72572955cab3)
 
 ----
