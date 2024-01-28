@@ -20,16 +20,47 @@
 ## 🌟프로젝트 페이지 소개
 ![롯데온 랜딩페이지](https://github.com/31daylee/LotteON2/assets/136422529/97905ecc-b7a6-4fd7-9d5f-c8710a7007a9)
 
+## 📚기술스택
+<div align=center> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/gradle-221E1F?style=for-the-badge&logo=java&logoColor=white"> 
+  <br>
 
-## 🎱프로젝트 결과_ 국비교육_ 팀프로젝트 1위 
-![프로젝트2](https://github.com/31daylee/LotteON2/assets/136422529/6bd803ac-2a62-4375-aa5c-2e9dcf159431)
-![프로젝트2_2](https://github.com/31daylee/LotteON2/assets/136422529/4e2af867-6c38-4b0d-9160-298c482048e2)
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  
+
+
+</div>
+
+<br>
+
 
 ## 🌝프로젝트 주요 기능 소개 
 #### 로그인 및 회원가입
 - 자동로그인
 - Email 인증
 - 약관 조회
+
+|회원가입|로그인 및 자동로그인|
+|--|--|
+|<img src="https://github.com/31daylee/LotteON2/assets/136422529/5f971ecf-d256-45bf-92a3-5027e90a39f4">|<img src="https://github.com/31daylee/LotteON2/assets/136422529/80158034-0398-49ed-8a73-0759ba783053">|
+
+<br>
+
 #### 상품
 - 상품별 조회 목록
 - 상품 주문
@@ -83,6 +114,9 @@
 ## 🌟발표 PPT(메인)
 ![LotteON_PPT](https://github.com/31daylee/LotteON2/assets/136422529/fef2d3a7-3115-4018-9f4b-72572955cab3)
 
+## 🎱프로젝트 결과_ 국비교육_ 팀프로젝트 1위 
+![프로젝트2](https://github.com/31daylee/LotteON2/assets/136422529/6bd803ac-2a62-4375-aa5c-2e9dcf159431)
+![프로젝트2_2](https://github.com/31daylee/LotteON2/assets/136422529/4e2af867-6c38-4b0d-9160-298c482048e2)
 ----
 ### SNAPSHOT 기록 
 
