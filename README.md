@@ -50,45 +50,85 @@
 
 
 ## 🌝프로젝트 주요 기능 소개 
-#### 로그인 및 회원가입
+### 로그인 및 회원가입
 - 자동로그인
 - Email 인증
 - 약관 조회
 
 |회원가입|로그인 및 자동로그인|
 |--|--|
-|<img src="https://github.com/31daylee/LotteON2/assets/136422529/5f971ecf-d256-45bf-92a3-5027e90a39f4">|<img src="https://github.com/31daylee/LotteON2/assets/136422529/80158034-0398-49ed-8a73-0759ba783053">|
+|![회원가입](https://github.com/31daylee/LotteON2/assets/136422529/a30c9c80-8a4a-4ee5-bb0d-928222cbb49b)|![ezgif com-video-to-gif-converter (2)](https://github.com/31daylee/LotteON2/assets/136422529/4e3df293-a0e3-4d36-99a9-00fe395d5baa)|
 
 <br>
 
-#### 상품
+### 상품
 - 상품별 조회 목록
 - 상품 주문
 - 장바구니
 - 주문 페이징처리
 - 리뷰 목록 및 페이징
-#### 고객센터
+
+|상품목록|상품주문|
+|--|--|
+|![상품목록](https://github.com/31daylee/LotteON2/assets/136422529/23740604-e29f-4910-b609-e76f8bc5c762)|![상품주문](https://github.com/31daylee/LotteON2/assets/136422529/6d965ea9-cb36-42a7-a424-74383f8f03f1)|
+|장바구니|상품리뷰|
+|![장바구니 (1)](https://github.com/31daylee/LotteON2/assets/136422529/3a7c9c97-d9a6-4bcd-bafc-19513da160f8)|![ezgif com-video-to-gif-converter (1)](https://github.com/31daylee/LotteON2/assets/136422529/ab59a4c2-e570-42d7-a39c-6fa28b030f1d)|
+<br>
+
+### 고객센터
 - 공지사항 목록 및 페이징
 - 자주묻는질문 목록 및 아코디언
 - 문의하기 목록 및 페이징
 - 문의하기 파일 업로드 및 다운로드
 - 문의하기 수정 및 삭제
-- 문의하기 관리자 답변 및 상태 표시 
-#### 관리자
+- 문의하기 관리자 답변 및 상태 표시
+
+|공지사항|자주묻는질문|
+|--|--|
+|![공지사항](https://github.com/31daylee/LotteON2/assets/136422529/97369a66-608d-4d3e-b0de-79b060b35b3e)|![자주묻는질문](https://github.com/31daylee/LotteON2/assets/136422529/c7cde325-2545-4f70-8b2f-36179566b61c)|
+|문의하기(파일 업로드&다운로드)|글수정|
+|![문의하기](https://github.com/31daylee/LotteON2/assets/136422529/0f958c4a-47a8-4b03-b562-722e37ca3fd7)|![글수정](https://github.com/31daylee/LotteON2/assets/136422529/64db2815-3e6f-4056-8502-183f4963e4fd)|
+|글삭제|
+|![글삭제](https://github.com/31daylee/LotteON2/assets/136422529/ca302a88-7d7e-4dec-af2d-7c1de599be5d)|
+<br>
+
+
+### 관리자
 - 상품현황 페이징 및 삭제
 - 상품 등록
 - 고객센터 문의글 답변 기능
-#### 마이페이지
+
+
+|관리자 목록|상품 등록|
+|--|--|
+|![관리자페이지](https://github.com/31daylee/LotteON2/assets/136422529/3711eda2-73ec-4cd8-96e6-9d3c1e4796e4)|![관리자 상품추가](https://github.com/31daylee/LotteON2/assets/136422529/ada5a1da-ba97-4cac-9a88-230d6917f4ad)|
+<br>
+
+### 마이페이지
 - 메인 목록 페이지
 - 전체 주문 내역 
-- 포인트 적립/사용/목
+- 포인트 적립/사용/목록
 - 나의 리뷰 기능
 - 문의하기 기능
 - 아이디/비밀번호 찾기
-#### 회사소개
+
+
+|마이페이지 목록|수취 확인 및 리뷰 등록|
+|--|--|
+|![ezgif com-video-to-gif-converter (3)](https://github.com/31daylee/LotteON2/assets/136422529/49ff12cd-dbdf-437d-a1e1-fe797a05b730)|![ezgif com-video-to-gif-converter (4)](https://github.com/31daylee/LotteON2/assets/136422529/2047d81f-c523-491a-a610-2aff027157fc)|
+<br>
+
+<br>
+
+### 회사소개
 - 회사메인 소개 기능
 - 홍보채널 기능
 
+|회사메인 소개|전자공시&홍보채녈&투명경영|
+|--|--|
+|![ezgif com-video-to-gif-converter](https://github.com/31daylee/LotteON2/assets/136422529/934b23c0-b438-4d80-989d-7d2dedcc60f1)|![ezgif com-video-to-gif-converter (5)](https://github.com/31daylee/LotteON2/assets/136422529/e1561dae-4973-4e10-97be-403716bdb462)|
+
+<br>
 
 ## 🖥개발 환경
 - OS : Window10
